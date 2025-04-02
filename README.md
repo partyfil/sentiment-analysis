@@ -20,4 +20,6 @@ VADER assigns a compound score to each comment, which represents the overall sen
 ### Sentiment Distribution
 ![alt text](image.png)
 
-From the distribution above, the sample of posted video comments shows to be mostly positive. 
+From the distribution above, the sample of posted video comments shows to be mostly positive, as defined by the VADER tool. The word cloud below gives off the 
+
+![alt text](image-1.png)
