@@ -3,7 +3,7 @@
 
 **Released: March 6, 2025**
 
-**Comments Sample Size: 200** 
+**Comments Sample Size: 199** 
 
 ## Executive Summary
 The bottom line here is Bob’s golf is mediocre at best and his fans and video commenters still love it. Despite having a 18% negative sentiment value, further digging into those comments found that the sentiment model picked up on references to Bob’s “not-so-great” golfing ability and not in reference to a negative entertainment value. The comments labeled as negative still imply that the commenters found the video humorous, of good quality, and fully entertaining. The positive (43%) and neutral (39%) comments really highlight the humor and entertainment, including a lot a love poured out for the Bob Does Sports crew.
@@ -21,7 +21,17 @@ VADER assigns a compound score to each comment, which represents the overall sen
 From the distribution, the sample of posted video comments shows to be mostly positive, as defined by the VADER tool. The negative sentiment comes out to approximately 18%, but further exploration shows those negative comments aren't that negative (a closer look at negative sentiment is below). 
 
 ![alt text](image.png)
+*Figure 1:  Sentiment Distribution Determine by VADER Tool*
 
 From the word cloud below, several expected terms appear, such as 'Bob,' 'Golf,' 'Course,' and 'Video,' which reflect the video's topic. However, the word 'Love' stands out, appearing in 17 comments. A closer look at these comments reveals that 'Love' is primarily used to express viewers' enjoyment of the content and/or the BDS crew.
 
 ![alt text](image-1.png)
+*Figure 2: Word Cloud of Most Common Words of all 199 Comments
+
+#### Negative Comments
+
+To understand where BDS could make some improvements to their videos or where the comments could have been misidentified, this report covers a more in-depth view of the comments that the VADER tool labeled as negative. The word cloud below shows the most commen words used in those labeled negative comments. Again, there are more of the same words when considering all the comments from Figure 2; however, the word 'Time' sticks out as a possible negative implications of not enjoying the content or the video being too long. 
+
+![alt text](image-2.png)
+
+
