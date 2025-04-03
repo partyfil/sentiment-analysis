@@ -18,8 +18,10 @@ VADER assigns a compound score to each comment, which represents the overall sen
 
 
 ### Sentiment Distribution
+From the distribution, the sample of posted video comments shows to be mostly positive, as defined by the VADER tool. The negative sentiment comes out to approximately 18%, but further exploration shows those negative comments aren't that negative (a closer look at negative sentiment is below). 
+
 ![alt text](image.png)
 
-From the distribution above, the sample of posted video comments shows to be mostly positive, as defined by the VADER tool. The word cloud below gives off the 
+From the word cloud below, several expected terms appear, such as 'Bob,' 'Golf,' 'Course,' and 'Video,' which reflect the video's topic. However, the word 'Love' stands out, appearing in 17 comments. A closer look at these comments reveals that 'Love' is primarily used to express viewers' enjoyment of the content and/or the BDS crew.
 
 ![alt text](image-1.png)
